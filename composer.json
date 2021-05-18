@@ -1,0 +1,12 @@
+{
+  "name": "philball/forFun/refreshCheckers",
+  "authors": [
+    {
+      "name": "Phillip Ball",
+      "email": "phillipball1997@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
